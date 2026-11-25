@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rkwhatelse.github.io/Maithili-/sitemap.xml
