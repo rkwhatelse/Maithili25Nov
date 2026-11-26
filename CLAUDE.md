@@ -3,6 +3,7 @@
 Single-page static site. Source on GitHub (`rkwhatelse`), deployed by **Vercel** (`maithilicoach.vercel.app`)
 with the custom domain **https://coach.divinehealhealth.com/** (live URL used in canonical/OG/JSON-LD/sitemap).
 No build step, no framework: everything is in `index.html` (inline CSS + JS) plus `assets/`.
+`vercel.json` redirects `/CLAUDE.md` and `/README.md` to the home page so these internal notes are not public on the site. Keep it when adding new internal files.
 
 ## Workflow for every change
 1. Edit files.
