@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rkwhatelse.github.io/Maithili-/sitemap.xml
+Sitemap: https://coach.divinehealhealth.com/sitemap.xml
